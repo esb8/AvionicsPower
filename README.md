@@ -1,7 +1,7 @@
 ## Overview
 
 
-This project is a RP2040, GPS board designed to be utilized in an avionics system comprising of 3 CAN connected PCBs which are comprised of a sensorboard, a powerboard, and a GPS Board. 
+This project is a RP2040, Power Distrubtion Board designed to be utilized in an avionics system comprising of 3 CAN connected PCBs which are comprised of a sensorboard, a Power Distrubution Board, and a GPS Board. 
 This avionics stack is designed for use in High Power model rocketry and aims to provide accurate telemetry, tracking position, altitude, and time during flight.
 
 
