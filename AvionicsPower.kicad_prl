@@ -20,7 +20,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -38,16 +38,14 @@
       "footprints_back",
       "footprint_references",
       "tracks",
-      "drc_errors",
       "drawing_sheet",
       "bitmaps",
       "pads",
       "zones",
-      "drc_warnings",
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_fffdffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -70,6 +68,8 @@
       false,
       false,
       false,
+      false,
+      false,
       false
     ],
     "col_order": [
@@ -82,19 +82,23 @@
       6,
       7,
       8,
-      9
+      9,
+      10,
+      11
     ],
     "col_widths": [
-      162,
-      147,
-      91,
-      67,
-      91,
-      91,
-      91,
-      71,
-      91,
-      91
+      294,
+      279,
+      173,
+      120,
+      173,
+      173,
+      173,
+      126,
+      173,
+      173,
+      173,
+      173
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

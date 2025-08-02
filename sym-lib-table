@@ -4,4 +4,5 @@
   (lib (name "TLV62585RWTR")(type "KiCad")(uri "${KIPRJMOD}/TLV62585RWTR/KiCADv6/2025-07-03_20-35-55.kicad_sym")(options "")(descr ""))
   (lib (name "ABM8_272_T3")(type "KiCad")(uri "${KIPRJMOD}/ABM8_272_T3/2025-03-30_17-36-02.kicad_sym")(options "")(descr ""))
   (lib (name "MC-311D")(type "KiCad")(uri "${KIPRJMOD}/MC-311D/Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "C:/Users/evanb/Documents/KiCad/easyeda2kicad/easyeda2kicad.kicad_sym")(options "")(descr ""))
 )
