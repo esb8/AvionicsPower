@@ -2,7 +2,7 @@
 
 This project is a custom RP2040-based **Power Distribution Board**, designed for use in an avionics stack comprising three CAN-connected PCBs:  
 - Sensor Board  
-- Power Distribution Board **(this board) ** 
+- Power Distribution Board **(this board)** 
 - GPS Board
 
 The system is intended for **high-power model rocketry**, and this board’s primary role is to **distribute power** to the rest of the system while also managing essential subsystems such as communication, monitoring, and recovery signaling.
