@@ -11,15 +11,16 @@ The system is intended for **high-power model rocketry**, and this board’s pri
 
 ## 📡 PCB Features
 
-- **High-current 3.3 V synchronous buck converter** (up to 3 A), operating at 1.5 MHz and ~95% efficiency  
-- **Low-noise LDO** with 60 dB PSRR @ 100 Hz, delivering up to 500 mA at 3.3 V  
-- **Single-cell Li-ion/LiPo battery protection IC** with over-voltage, under-voltage, and over-current protection.
-- **CAN controller and transceiver** for inter-board communication  
-- **RP2040 microcontroller** as the onboard logic/controller unit  
-- **USB-C interface** for external communication and power  
-- **Onboard status LEDs** for buck converter, MCU status, and USB-C diagnostics  
-- **External 128 Mbit W25Q128JVS flash memory** for program and data storage 
-- **MAX98357A I²S digital amplifier** connected to a speaker for audible recovery alerts
+- High-current 3.3 V synchronous buck converter (up to 3 A), operating at 1.5 MHz and ~95% efficiency  
+- Low-noise LDO with 60 dB PSRR @ 100 Hz, delivering up to 500 mA at 3.3 V  
+- Single-cell Li-ion/LiPo battery protection IC with over-voltage, under-voltage, and over-current protection  
+- CAN controller and transceiver  
+- RP2040 microcontroller  
+- USB-C interface  
+- Onboard status LEDs for buck converter, MCU status, and USB-C diagnostics  
+- External 128 Mbit W25Q128JVS flash memory  
+- MAX98357A I²S digital amplifier connected to a speaker for audible recovery
+
 
 ---
 
